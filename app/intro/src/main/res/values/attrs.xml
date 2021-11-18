@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StoriesProgressView">
+        <attr name="progressCount" format="integer|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundTabLayout">
+        <attr name="accent" format="color"/>
+        <attr name="cornerRadiuss" format="integer|string">
+            <flag name="rectangle" value="0"/>
+            <flag name="rounded" value="15"/>
+            <flag name="circle" value="50"/>
+        </attr>
+        <attr name="src" format="reference"/>
+        <attr name="withStroke" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_circle_background_color" format="color" />
+    </declare-styleable>
+</resources>

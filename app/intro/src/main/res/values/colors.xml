@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="pink_500">#01FF7C</color>
+    <color name="gray">#D1D1D1</color>
+    <color name="gray_100">#EEEEEE</color>
+    <color name="gray_200">#FCFCFC</color>
+    <color name="red">#FF2B3F</color>
+    <color name="accent">#007ac1</color>
+    <color name="primary">#03a9f4</color>
+    <color name="primary_light">#67daff</color>
+
+    <color name="normal">#39465B</color>
+    <color name="light">#639DC8</color>
+
+    <!--<color name="progress_primary">#fff</color>-->
+    <color name="progress_primary">@color/black</color>
+    <color name="progress_secondary">@color/gray_scale</color>
+    <color name="progress_max_active">@color/primary</color>
+
+    <color name="gray_scale">#8affffff</color>
+    <color name="white">#fff</color>
+    <color name="gray_300">#F1F1F1</color>
+    <color name="gray_400">#F3F3F3</color>
+    <color name="gray_500">#FAFAFA</color>
+    <color name="yellow">#E7D531</color>
+    <color name="light_green">#0FB34C</color>
+    <color name="pink_300">#F06292</color>
+    <color name="pink_200">#F48FB1</color>
+    <color name="pink_100">#F8BBD0</color>
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_300">#64B5F6</color>
+    <color name="green_100">#C8E6C9</color>
+    <color name="green_200">#A5D6A7</color>
+    <color name="green_300">#81C784</color>
+    <color name="yellow_100">#FFF9C4</color>
+    <color name="yellow_200">#FFF59D</color>
+    <color name="yellow_300">#FFF176</color>
+    <color name="purple_100">#e1bee7</color>
+    <color name="purple_200">#ce93d8</color>
+    <color name="purple_300">#ba68c8</color>
+
+    <color name="gradient2_start">#03a9f4</color>
+    <color name="gradient2_end">#3700B3</color>
+    <color name="orange">#F8991B</color>
+    <color name="bg">#DAD8B9</color>
+</resources>
